@@ -3,6 +3,11 @@
 #TI.19.F1
 #311910420
 
+# INI LINK LAB10:
+https://github.com/Edwin425/lab10_php_oop/blob/main/README.md
+
+
+
 *Codingan dan hasil tampilan header.php
 
 ![image](https://user-images.githubusercontent.com/77254428/121779140-6d237180-cbc4-11eb-9f43-094e83bcbf22.png)
